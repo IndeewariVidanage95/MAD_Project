@@ -81,10 +81,11 @@
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="24dp"
         android:background="@color/colorPrimary"
-        android:text="Login"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintVertical_bias="0.951"
+        tools:text="@string/log2" />
 </android.support.constraint.ConstraintLayout>

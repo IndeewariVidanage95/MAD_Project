@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">mobiDine</string>
+    <string name="ChangeProf">Change Profile Photo</string>
+    <string name="editProf">Edit Profile</string>
+    <string name="log1">LOGIN</string>
+    <string name="log2">LOGIN</string>
+    <string name="SgnUp">SIGN UP</string>
+    <string name="saveChe">Save Changes</string>
 </resources>
