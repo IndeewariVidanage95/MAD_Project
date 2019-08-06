@@ -6,4 +6,7 @@
     <string name="log2">LOGIN</string>
     <string name="SgnUp">SIGN UP</string>
     <string name="saveChe">Save Changes</string>
+    <string name="editName">Indeewari Vidanage</string>
+    <string name="editEmail">bhagyavidanage@gmail.com</string>
+    <string name="editPw">............</string>
 </resources>
