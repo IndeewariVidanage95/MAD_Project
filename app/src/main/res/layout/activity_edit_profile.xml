@@ -21,21 +21,6 @@
         app:layout_constraintVertical_bias="0.015"
         app:srcCompat="@drawable/download" />
 
-    <Button
-        android:id="@+id/button5"
-        android:layout_width="221dp"
-        android:layout_height="36dp"
-        android:layout_marginStart="24dp"
-        android:layout_marginEnd="24dp"
-        android:layout_marginBottom="24dp"
-        android:background="@drawable/ash_crv_button"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.353"
-        tools:text="@string/ChangeProf" />
-
     <TextView
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
@@ -221,5 +206,21 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.883" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="208dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp"
+        android:text="@string/ChangeProf"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.319" />
 
 </android.support.constraint.ConstraintLayout>
