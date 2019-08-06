@@ -24,15 +24,15 @@
 
     <EditText
         android:id="@+id/editText"
-        android:layout_width="376dp"
-        android:layout_height="42dp"
+        android:layout_width="382dp"
+        android:layout_height="49dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="24dp"
         android:ems="10"
         android:inputType="phone"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -58,15 +58,15 @@
 
     <EditText
         android:id="@+id/editText2"
-        android:layout_width="375dp"
-        android:layout_height="37dp"
+        android:layout_width="383dp"
+        android:layout_height="48dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="21dp"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="24dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -92,15 +92,15 @@
 
     <EditText
         android:id="@+id/editText3"
-        android:layout_width="375dp"
-        android:layout_height="38dp"
+        android:layout_width="377dp"
+        android:layout_height="52dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="24dp"
         android:ems="10"
         android:inputType="textEmailAddress"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -126,8 +126,8 @@
 
     <EditText
         android:id="@+id/editText4"
-        android:layout_width="377dp"
-        android:layout_height="41dp"
+        android:layout_width="379dp"
+        android:layout_height="49dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="24dp"
@@ -136,13 +136,13 @@
         android:ems="10"
         android:inputType="textPassword"
         android:textIsSelectable="false"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.73" />
+        app:layout_constraintVertical_bias="0.744" />
 
     <Button
         android:id="@+id/button"
